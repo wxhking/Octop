@@ -1,0 +1,2 @@
+{'tenant': None, 'response_type': ['code']}
+{'tenant': ['acme'], 'response_type': ['code']}
